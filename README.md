@@ -65,7 +65,8 @@ Este repositório conterá um notebook do **Colab Enterprise** demonstrando, com
 1. **Criação de tabelas fake** no BigQuery (dados sintéticos, sem qualquer informação real);
 2. **Geração de documentação** para o catálogo (descrições de tabelas e colunas);
 3. **Glossário de negócio** — criação de glossário, termos e associação a ativos de dados;
-4. **Relacionamento de tabelas** — descoberta e consulta de [data relationships](https://docs.cloud.google.com/dataplex/docs/data-relationships) entre as tabelas da demo.
+4. **Relacionamento de tabelas** — descoberta e consulta de [data relationships](https://docs.cloud.google.com/dataplex/docs/data-relationships) entre as tabelas da demo;
+5. **Conversational Analytics** — chat em linguagem natural com os dados do BigQuery, ancorado (AI grounding) no contexto do catálogo: descrições, glossário e relacionamentos.
 
 ## Pré-requisitos
 
